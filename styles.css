@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #011F3F;
+  cursor: url(cursor.png),auto !important;
 }
 
 #level-title {
@@ -32,19 +33,23 @@ body {
 }
 
 .red {
-  background-color: red;
+  background-color: rgb(199, 71, 71);
+  cursor: url(cursor.png),pointer !important;
 }
 
 .green {
   background-color: green;
+  cursor: url(cursor.png),pointer !important;
 }
 
 .blue {
   background-color: blue;
+  cursor: url(cursor.png),pointer !important;
 }
 
 .yellow {
   background-color: yellow;
+  cursor: url(cursor.png),pointer !important;
 }
 
 .pressed {
